@@ -1,0 +1,26 @@
+h1 {
+    text-align: center; /* Centre le texte */
+    margin-top: 90px;
+    margin-bottom: 90px; /* Espace en dessous du titre */
+}
+
+
+h3 {
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.container {
+    width: 100%; /* La boîte prendra toute la largeur de son conteneur */
+    max-width: 1300px; /* Optionnel : limite la largeur maximum de la boîte */
+    margin: 0 auto; /* Centrer la boîte horizontalement */
+}
+
+.box {
+    background-color: #ffffff; /* Couleur de fond de la boîte */
+    border: 1px solid #ccc; /* Bordure de la boîte */
+    border-radius: 5px; /* Coins arrondis */
+    padding: 20px; /* Espacement intérieur */
+    margin-bottom: 20px; /* Espace entre les boîtes */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Ombre légère */
+}
